@@ -1,0 +1,22 @@
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\TinCan.dll
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mehmet\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\TinCan.dll
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\mehmet Kullanıcısı STAJ\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
